@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "price": 3299000,
+    "priceShow": "3,299,000",
+    "imgUrl": "/imagesProducts/product-1.webp",
+    "imgDet": "/imagesProducts/big-1.webp",
+    "description": "گوشی موبایل جی پلاس مدل X10 Plus دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت"
+  },
+  {
+    "id": 2,
+    "price": 709000,
+    "priceShow": "709,000",
+    "imgUrl": "/imagesProducts/product-2.webp",
+    "imgDet": "/imagesProducts/big-2.webp",
+    "description": "گوشی موبایل آلکاتل مدل 1069 دو سیم کارت"
+  },
+  {
+    "id": 3,
+    "price": 15499000,
+    "priceShow": "15,499,000",
+    "imgUrl": "/imagesProducts/product-3.webp",
+    "imgDet": "/imagesProducts/big-3.webp",
+    "description": "گوشی موبایل ناتینگ مدل Phone 1 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت"
+  },
+  {
+    "id": 4,
+    "price": 759000,
+    "priceShow": "759,000",
+    "imgUrl": "/imagesProducts/product-4.webp",
+    "imgDet": "/imagesProducts/big-4.webp",
+    "description": "گوشی موبایل نوکیا مدل 106 2023 دو سیم‌ کارت"
+  },
+  {
+    "id": 5,
+    "price": 21599000,
+    "priceShow": "21,599,000",
+    "imgUrl": "/imagesProducts/product-5.webp",
+    "imgDet": "/imagesProducts/big-5.webp",
+    "description": "لپ تاپ 15.6 اینچی ایسوس مدل R565EP-EJ627"
+  },
+  {
+    "id": 6,
+    "price": 62999000,
+    "priceShow": "62,999,000",
+    "imgUrl": "/imagesProducts/product-6.webp",
+    "imgDet": "/imagesProducts/big-6.webp",
+    "description": "لپ تاپ 15.6 اینچی ایسوس مدل ROG Strix G15 G513RW-HQ222-R7 6800H 16GB 1SSD RTX3070Ti"
+  },
+  {
+    "id": 7,
+    "price": 739000,
+    "priceShow": "739,000",
+    "imgUrl": "/imagesProducts/product-7.webp",
+    "imgDet": "/imagesProducts/big-7.webp",
+    "description": "لوستر چهار شعله چشمه نور کد AB1252/4-WT"
+  },
+  {
+    "id": 8,
+    "price": 169000,
+    "priceShow": "169,000",
+    "imgUrl": "/imagesProducts/product-8.webp",
+    "imgDet": "/imagesProducts/big-8.webp",
+    "description": "بازی فکری زینگو مدل بوم بال"
+  },
+  {
+    "id": 9,
+    "price": 219000,
+    "priceShow": "219,000",
+    "imgUrl": "/imagesProducts/product-9.webp",
+    "imgDet": "/imagesProducts/big-9.webp",
+    "description": "بازی فکری زینگو مدل تیکا"
+  },
+  {
+    "id": 10,
+    "price": 540000,
+    "priceShow": "540,000",
+    "imgUrl": "/imagesProducts/product-10.webp",
+    "imgDet": "/imagesProducts/big-10.webp",
+    "description": "اسپیکر بلوتوثی لیتو مدل LK-28"
+  },
+  {
+    "id": 11,
+    "price": 1160000,
+    "priceShow": "1,160,000",
+    "imgUrl": "/imagesProducts/product-11.webp",
+    "imgDet": "/imagesProducts/big-11.webp",
+    "description": "اسپیکر قابل حمل تسکو مدل 23415"
+  },
+  {
+    "id": 12,
+    "price": 20349420,
+    "priceShow": "20,349,420",
+    "imgUrl": "/imagesProducts/product-12.webp",
+    "imgDet": "/imagesProducts/big-12.webp",
+    "description": "تلویزیون ال ای دی هوشمند تی سی ال مدل 55P635 سایز 55 اینچ"
+  }
+]

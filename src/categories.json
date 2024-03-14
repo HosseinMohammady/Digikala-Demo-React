@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "image": "/imagesProducts/cat1.png",
+    "description": "موبایل"
+  },
+  {
+    "id": 2,
+    "image": "/imagesProducts/cat2.png",
+    "description": "لوازم خانگی برقی"
+  },
+  {
+    "id": 3,
+    "image": "/imagesProducts/cat3.png",
+    "description": "کالای دیجیتال"
+  },
+  {
+    "id": 4,
+    "image": "/imagesProducts/cat4.png",
+    "description": "زیبایی و سلامت "
+  },
+  {
+    "id": 5,
+    "image": "/imagesProducts/cat5.png",
+    "description": "خانه و آشپزخانه"
+  },
+  {
+    "id": 6,
+    "image": "/imagesProducts/cat6.png",
+    "description": "ورزش و سفر"
+  },
+  {
+    "id": 7,
+    "image": "/imagesProducts/cat7.png",
+    "description": "مد و پوشاک"
+  },
+  {
+    "id": 8,
+    "image": "/imagesProducts/cat8.png",
+    "description": "ابزار آلات و تجهیزات"
+  },
+  {
+    "id": 9,
+    "image": "/imagesProducts/cat9.png",
+    "description": "کالاهای سوپرمارکتی"
+  },
+  {
+    "id": 10,
+    "image": "/imagesProducts/cat10.png",
+    "description": "موتورسیکلت"
+  },
+  {
+    "id": 11,
+    "image": "/imagesProducts/cat11.png",
+    "description": "کتاب، لوازم تحریر "
+  },
+  {
+    "id": 12,
+    "image": "/imagesProducts/cat12.png",
+    "description": "محصولات بومی "
+  },
+  {
+    "id": 13,
+    "image": "/imagesProducts/cat13.png",
+    "description": "اسباب بازی، کودک "
+  },
+  {
+    "id": 14,
+    "image": "/imagesProducts/cat14.png",
+    "description": "کارت هدیه"
+  }
+]
